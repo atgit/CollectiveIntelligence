@@ -10,6 +10,10 @@
 
 # Discovering Groups - Data Clustering
   - Supervised vs unsupervised learning
+  - Capture the distribution in space
+  - Hierarchical clustering - continuously merging the two most similar/near groups
+    - Disadvantage: Tree view does not break the data into groups; Computationally intensive;
+  - K-means clustering
+
+# Searching and Ranking
   - 
-  - 
-  
