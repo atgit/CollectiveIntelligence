@@ -16,4 +16,4 @@
   - K-means clustering
 
 # Searching and Ranking
-  - 
+  - Full-text search engine: a list of words as input and ranked documents based on the relevance
