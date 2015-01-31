@@ -4,5 +4,12 @@
 - Code - systematic way to represent information
 - Redundancy
   - Advantages: deal with noise; error correction
-- Compression
+  - Compression
+  - Error detection and correction
+- Probability
+  - n->∞, occurrence of event/n converges to P  (n = times of trials)
+  - Features
+    - Exhaustive
+    - Mutually exclusive
+  - Prior probability
   - 
