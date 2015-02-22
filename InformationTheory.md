@@ -12,4 +12,6 @@
     - Exhaustive
     - Mutually exclusive
   - Prior probability
-  - 
+  - event - all the possible outcome
+- Noise
+  - Binary symetric channel

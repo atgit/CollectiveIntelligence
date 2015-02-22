@@ -18,3 +18,4 @@
 # Searching and Ranking
   - Full-text search engine: a list of words as input and ranked documents based on the relevance
   - Crawler ==> Word Separator/Stemmer ==> Indexing ==> Ranking (word frequency; location in a doc, e.g. topic; word distance; reference count)
+
