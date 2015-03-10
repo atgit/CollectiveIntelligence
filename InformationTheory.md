@@ -15,3 +15,6 @@
   - event - all the possible outcome
 - Noise
   - Binary symetric channel
+
+- Maximum entropy
+  - Information theory provides a constructive criterion for setting up probability distributions on the basis of partial knowledge, and leads to a type of statistical inference which is called the maximum entropy estimate. It is least biased estimate possible on the given information; i.e., it is maximally noncommittal with regard to missing information.
